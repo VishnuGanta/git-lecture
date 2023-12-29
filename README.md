@@ -1,3 +1,3 @@
 ##Demo
-Tying to learn Git and Github
+I updated this line for better understanding of git
 Doing some crazy stuff
